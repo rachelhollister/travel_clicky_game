@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "image": "/assets/images/travel1.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "/assets/images/travel2.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "/assets/images/travel3.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "/assets/images/travel4.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "/assets/images/travel5.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "/assets/images/travel6.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "/assets/images/travel7.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "/assets/images/travel8.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "/assets/images/travel9.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "/assets/images/travel10.jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "/assets/images/travel11.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "/assets/images/travel12.jpg",
+      "clicked": false
+    }
+  ]
